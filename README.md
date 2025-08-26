@@ -1,9 +1,11 @@
 <h2 align="left">Hey 👋, I'm Rinful</h2>
 <p align="left">
-💻 Go & Linux enjoyer, ricer, and explorer of all things tech.  
-🚀 From backend to frontend, databases to AI, math to game dev — I dive into it all.  
-🎯 Forever learning, never stuck in one box.
+💻 Go & Linux enthusiast, ricer, and curious explorer of technology.<br>
+🚀 From backend systems to frontend design, databases to AI, math to game dev.<br>
+✨ I enjoy diving into different areas and building things that teach me something new.<br>
+🎯 Always learning, never stuck in one box.
 </p>
+
 
 ---
 
