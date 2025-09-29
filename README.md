@@ -5,10 +5,11 @@
 🎯 Always learning, always building.
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/Go-1a1b26?style=for-the-badge&logo=go&logoColor=7aa2f7" />
-  <img src="https://img.shields.io/badge/Neovim-1a1b26?style=for-the-badge&logo=neovim&logoColor=9ece6a" />
-  <img src="https://img.shields.io/badge/Linux-1a1b26?style=for-the-badge&logo=linux&logoColor=e0af68" />
-  <img src="https://img.shields.io/badge/PostgreSQL-1a1b26?style=for-the-badge&logo=postgresql&logoColor=7dcfff" />
+ <img src="https://img.shields.io/badge/Go-2E3440?style=for-the-badge&logo=go&logoColor=88C0D0" />
+<img src="https://img.shields.io/badge/Neovim-2E3440?style=for-the-badge&logo=neovim&logoColor=A3BE8C" />
+<img src="https://img.shields.io/badge/Linux-2E3440?style=for-the-badge&logo=linux&logoColor=EBCB8B" />
+<img src="https://img.shields.io/badge/PostgreSQL-2E3440?style=for-the-badge&logo=postgresql&logoColor=81A1C1" />
+
 </p>
 
 ---
