@@ -17,7 +17,8 @@
 ![GitHub Stats](https://img.shields.io/badge/-GitHub%20Stats-2E3440?style=for-the-badge&logo=github&logoColor=white)
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=0xrinful&theme=nord" height="200" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xrinful&layout=compact&theme=nord&hide_border=false" height="200" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0xrinful&layout=compact&theme=nord&hide_border=false" height="200" alt="Top Languages" />
+  
 </div>
 
 ---
