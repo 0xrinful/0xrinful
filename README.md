@@ -1,6 +1,6 @@
 <h2 align="left">Hey 👋, I'm Ahmed</h2>
 <p align="left">
-💻 20-year-old curious explorer of the tech universe.<br>
+💻 21-year-old curious explorer of the tech universe.<br>
 ⚡ Interested in coding, systems, design, and beyond.<br>
 🎯 Always learning, always building.
 </p>
